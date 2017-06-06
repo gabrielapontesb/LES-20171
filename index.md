@@ -1,8 +1,8 @@
 ## Relatório do Trabalho Integrado
 
 O desenvolvimento do projeto semestral vem de uma necessidade real de duas sócias da lanchonete FastFrango em gerir seu negócio. Para isso, o trabalho foi separado em duas partes principais: a de documentação, requisitada pelo professor, e a implementação em si.
-
 Minha participação foi a seguinte, em cada entrega:
+
 **Entrega 1:** Esta primeira etapa consistia apenas na documentação e no início do projeto. Sendo assim, fiquei responsável pelo desenvolvimento do minimundo e pela parte do Projeto Detalhado, incluindo a elaboração do Canvas, do Cronograma Macro de Sprints e a criação do Backlog com as histórias de usuário.
 
 **Entrega 2:** Para esta entrega, ficou definido que parte dos testes já deveriam estar rodando. Houveram dificuldades no decorrer do trabalho quanto à questão da configuração. A linguagem inicial era Java e começaram a surgir diversos problemas de ambiente. Sendo assim, o grupo não foi capaz de entregar todas os testes rodando, mas ajudei no processo de construção das features. Além disso, refiz os ajustes no documento que estavam errados, de acordo com o feedback do professor.
